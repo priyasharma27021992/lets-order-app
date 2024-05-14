@@ -64,7 +64,6 @@ const Body = () => {
         <Shimmer />
       ) : (
         <div className="body">
-          <h1 className="text-3xl font-bold underline">Hello world!</h1>
           <div className="filter">
             <div className="search">
               <SearchBox
